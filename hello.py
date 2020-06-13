@@ -5,7 +5,7 @@ print(123)
 print(87)
 print("last")
 print("first")
-print("cmd")
+
 print("rds")
 print("drsa")
 print(3484)
