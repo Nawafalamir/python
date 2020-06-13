@@ -1,3 +1,5 @@
 print(47)
 print(43)
-
+print("na")
+print("sa")
+print("ds")
